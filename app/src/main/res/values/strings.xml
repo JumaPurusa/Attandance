@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Attandance</string>
+    <string name="put_finger_on_scanner">Put your finger on the scanner</string>
+    <string name="reg_complete">Complete Registration</string>
+</resources>
